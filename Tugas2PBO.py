@@ -107,3 +107,20 @@ xyz_Universitas.tampilkan_daftar_fakultas()
 jur_TI.tampilkan_daftar_mahasiswa()
 
 #Output
+Daftar Jurusan di Universitas XYZ University
+--------------------------------------------
+Teknik Informatika
+
+Daftar Fakultas di Universitas XYZ University
+--------------------------------------------
+Fakultas Teknik
+
+Daftar Mahasiswa di Jurusan Teknik Informatika
+--------------------------------------------
+Nama         : Dian Ardiyanti Saputri
+NIM          : G1A022084
+Jurusan      : Teknik Informatika
+Alamat       : Jalan Air Sebakul Perumnas Alfatindo
+Email        : dianardiyantisaputri@gmail.com
+Nomor Hp     : 08987654321
+Tanggal Lahir: 23 Januari 2004
