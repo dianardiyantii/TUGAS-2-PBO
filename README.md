@@ -1,7 +1,10 @@
 # TUGAS-2-PBO
 TUGAS 2 PBO Membuat Kelas Mahasiswa, Jurusan, Fakultas, dan Universitas
+
 Nama  : Dian Ardiyanti Saputri
+
 Npm   : G1A022084
+
 Tugas 2 PBO
 
 # **Deskripsi Tentang Kode Program**
